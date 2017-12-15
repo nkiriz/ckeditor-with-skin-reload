@@ -5,6 +5,6 @@ If a copy of the MPL was not distributed with this file, You can obtain one at h
 
 Contributor: Nikola Radišić
 
-Modification: /core/skin.js - allowed skin reload. Modification made on Fri Dec 15 2017 16:29:13 GMT+0100 (Central Europe Standard Time)
+Modification: /core/skin.js - allowed skin reload without page refresh. Modification made on Fri Dec 15 2017 16:29:13 GMT+0100 (Central Europe Standard Time)
 
 The source code of this modified version of the CKEditor library can be found on https://github.com/nkiriz/ckeditor-with-skin-reload
